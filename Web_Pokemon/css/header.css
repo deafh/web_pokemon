@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/*Header*/
+
+#h1 {
+    background-image: url(../imagen/pokemon-unite-aniversario.png);
+    margin: -25px -8px -25px -8px;
+    padding: 12px 2px 2px 0px;
+}
+h1 {
+    text-align: center;
+}
+
+header {
+    font-size: 20px;
+}
+a.link {
+    color: var(--cor03);
+    text-decoration: none;
+}
+a.link:hover {
+    text-decoration: underline;
+    color: var(--cor03);
+}
+a#link1 {
+    margin-left: 587px;
+}
+#links {
+    background-color: var(--cor04);
+    margin: 22px -8px -8px -8px;
+}
+#P1 {
+    background-color: var(--cor03);
+    width: 700px;
+    margin-left: 155px;
+}
+
+/*Fim*/

@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* Geral */
+
+    :root {
+        --cor01: black;
+        --cor02: red;
+        --cor03: white;
+        --cor04: #1f1f1f;
+    }
+
+/*Fim*/
+/*Body*/
+
+    
+
+    /*Main*/
+
+        .section {
+            background-color: var(--cor03);
+            width: 1000px;
+            margin-left: 180px;
+        }
+        main.main {
+            background-image: url(../imagen/pokemon-unite-aniversario.png);
+            background-position: top center;
+            background-repeat: no-repeat;
+            background-size: 100%;
+            margin: -14px -8px 0px -8px;
+        }
+        #SP {
+            text-align: center;
+            background-color: var(--cor03);
+            width: 1000px;
+            margin-left: 180px;
+        }
+        
+
+    /*Fim*/
+/*Fim*/

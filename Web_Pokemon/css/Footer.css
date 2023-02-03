@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+/* Geral */
+
+    :root {
+        --cor01: black;
+        --cor02: red;
+        --cor03: white;
+        --cor04: #1f1f1f;
+    }
+
+/*Fim*/
+/*Footer*/
+
+    footer {
+        margin: 0px -8px -8px -8px;
+        
+    }
+    .SO {
+    background-color: var(--cor04); 
+    text-align: center;
+    }
+    .SO1 {
+        display: inline-block;
+        margin: 0px 0px 0px -50px;
+        padding-top: 0px;
+    }
+    .A1 {
+        text-decoration: none;
+        color: var(--cor03);
+        display: inline-block;
+    }
+    .A1:hover {
+        text-decoration: underline;
+    }
+    #SO3{
+        color: var(--cor03);
+        margin-bottom: -5px;
+        margin-top: 0px;
+        text-decoration: underline white;
+    }
+    .section1 {
+        display: inline-block;
+        margin: 0px 0px 0px 105px;
+    }
+    #SO2 {
+        margin: 10px 0px 0px 0px;
+        color: var(--cor03);
+        text-decoration: underline white;
+    }
+    .A2 {
+        text-decoration: none;
+        color: var(--cor03);
+        display: inline-block;
+    }
+    .A2:hover {
+        text-decoration: underline;
+    }
+
+/*Fim*/

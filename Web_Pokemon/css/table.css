@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/*Uso Geral*/
+    .table{
+        color: brown;
+        border: 1px solid black;
+        width: 300px;
+        border-collapse: collapse;
+        margin-left: 219px;
+        margin-bottom: 11px;
+    }
+    td {
+        border: 1px solid black;
+        text-align: center;
+    }
+/*Fim*/
