@@ -6,6 +6,8 @@
     background-image: url(../imagen/pokemon-unite-aniversario.png);
     margin: -25px -8px -25px -8px;
     padding: 12px 2px 2px 0px;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 h1 {
     text-align: center;
